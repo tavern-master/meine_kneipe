@@ -24,13 +24,11 @@ Just open index.html and import Table-Example.csv to see a gantt-chart.
 
 
 #Soll-Ist-Analysis:
->Good points
-
+Good points
 1. App works
-2. Extracting and matching of data works
+2. Extracting and matching of data work
 
->Still in Progress
-
+Still in Progress
 1.Bugs
-2.Table import via cloud
-3.Customize options for chart
+2.Update for universal table-formats
+3.Customization options for charts
