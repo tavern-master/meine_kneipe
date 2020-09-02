@@ -19,14 +19,18 @@ Just open index.html and import Table-Example.csv to see a gantt-chart.
 
 #Tech-Stack: 
 >D3.js: https://d3js.org
+
 >saveSvgAsPng: https://github.com/exupero/saveSvgAsPng
 
 
 #Soll-Ist-Analysis:
 >Good points
+
 1. App works
 2. Extracting and matching of data works
+
 >Still in Progress
+
 1.Bugs
 2.Table import via cloud
 3.Customize options for chart
